@@ -1,0 +1,7 @@
+# Ignore logs and vendor
+log/
+vendor/
+node_modules/
+*.log
+.env
+.DS_Store

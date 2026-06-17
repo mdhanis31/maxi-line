@@ -1,0 +1,118 @@
+.tabel-kop {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* .tabel-kop tr td {
+    border: 1px solid black;
+} */
+
+.img-kop {
+    height: 70px;
+    width: 250px;
+    position: relative;
+    /* vertical-align: center; */
+}
+
+.tabel-desc {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabel-desc tr td {
+    border: 1px solid black;
+}
+
+.line-kop {
+    height: 3px;
+    color: black;
+}
+
+.judul-form {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.tabel-content-1 {
+    width: 100%;
+    border-collapse: collapse;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+/* .tabel-content-1 tr td {
+    border: 1px solid black;
+} */
+
+.tabel-content-2 {
+    width: 100%;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    vertical-align: top;
+}
+
+/* .tabel-content-2 tr td {
+    border: 1px solid black;
+} */
+
+.tabel-perangkat {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* .tabel-perangkat tr td {
+    border: 1px solid black;
+} */
+
+td.tabel-header {
+    font-weight: bold;
+}
+
+.checkbox-group {
+    margin-left: 18px;
+    margin-bottom: 15px;
+}
+
+.checkbox {
+    width: 14px;
+    height: 14px;
+    /* border: 1px solid #000; */
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.list-teknisi {
+    margin-left: 18px;
+    margin-bottom: 15px;
+}
+
+.persetujuan {
+    margin-left: 18px;
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.tabel-content-3 {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td.tanda-tangan {
+    height: 80px;
+}
+
+.tabel-footer {
+    width: 100%;
+    font-size: 8pt;
+    border-collapse: collapse;
+}
