@@ -7,11 +7,11 @@ class SystemComponent {
 		// $settings['dbhost'] = '10.10.10.95,8198\MANUNGGALDB';
 		
 		// IPTX
-		$settings['dbhost'] = 'localhost,1433';
+		$settings['dbhost'] = 'your-host-database';
 
-		$settings['dbusername'] = 'sa';
-		$settings['dbpassword'] = 'P@ssw0rd!';
-		$settings['dbname'] = 'maxi-line';
+		$settings['dbusername'] = 'your-database-username';
+		$settings['dbpassword'] = 'your-database-password';
+		$settings['dbname'] = 'your-database-name';
 		
 		return $settings;
 	}
